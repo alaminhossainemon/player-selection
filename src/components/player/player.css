@@ -1,0 +1,10 @@
+img{
+    width: 200px;
+}
+.addBtn{
+    width:100px;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius:5px;
+}
